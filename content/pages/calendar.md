@@ -4,31 +4,363 @@ title: Calendar
 uid: ada7ceaf-fe98-9345-29ee-a020720e7c4c
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Fundamental concepts and examples | &nbsp; |
-| 2 | Well-posedness and Fourier methods for linear initial value problems | &nbsp; |
-| 3 | Laplace and Poisson equation | &nbsp; |
-| 4 | Heat equation, transport equation, wave equation |  {{< br >}}{{< br >}} Problem set 1 out {{< br >}}{{< br >}} Project proposal due {{< br >}}{{< br >}}  |
-| 5 | General finite difference approach and Poisson equation | &nbsp; |
-| 6 | Elliptic equations and errors, stability, Lax equivalence theorem | &nbsp; |
-| 7 | Spectral methods |  {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}}  |
-| 8 | Fast Fourier transform (guest lecture by Stephen Johnson) | &nbsp; |
-| 9 | Spectral methods | &nbsp; |
-| 10 | Elliptic equations and linear systems | &nbsp; |
-| 11 | Efficient methods for sparse linear systems: multigrid |  {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}}  |
-| 12 | Efficient methods for sparse linear systems: Krylov methods | &nbsp; |
-| 13 | Ordinary differential equations | Midterm report |
-| 14 | Stability for ODE and von Neumann stability analysis | &nbsp; |
-| 15 | Advection equation and modified equation |  {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}}  |
-| 16 | Advection equation and ENO/WENO | &nbsp; |
-| 17 | Conservation laws: theory | &nbsp; |
-| 18 | Conservation laws: numerical methods | &nbsp; |
-| 19 | Conservation laws: high resolution methods |  {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}}  |
-| 20 | Operator splitting, fractional steps | &nbsp; |
-| 21 | Systems of IVP, wave equation, leapfrog, staggered grids | &nbsp; |
-| 22 | Level set method | &nbsp; |
-| 23 | Navier-Stokes equation: finite difference methods | &nbsp; |
-| 24 | Navier-Stokes equation: pseudospectral methods | Problem set 5 due |
-| 25 | Particle methods | &nbsp; |
-| 26 | Project presentations | Final report
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental concepts and examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Well-posedness and Fourier methods for linear initial value problems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace and Poisson equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Heat equation, transport equation, wave equation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 out
+
+Project proposal due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+General finite difference approach and Poisson equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Elliptic equations and errors, stability, Lax equivalence theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Spectral methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 out
+
+Problem set 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fast Fourier transform (guest lecture by Stephen Johnson)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Spectral methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Elliptic equations and linear systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Efficient methods for sparse linear systems: multigrid
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 out
+
+Problem set 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Efficient methods for sparse linear systems: Krylov methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Ordinary differential equations
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm report
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Stability for ODE and von Neumann stability analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Advection equation and modified equation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 out
+
+Problem set 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Advection equation and ENO/WENO
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation laws: theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation laws: numerical methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation laws: high resolution methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 out
+
+Problem set 4 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Operator splitting, fractional steps
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Systems of IVP, wave equation, leapfrog, staggered grids
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Level set method
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Navier-Stokes equation: finite difference methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Navier-Stokes equation: pseudospectral methods
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Particle methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final report
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
