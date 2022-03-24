@@ -38,6 +38,6 @@ Many of the MATLAB programs linked below are from the [_Computational Science an
     Uses the level set method with reinitialization to compute the movement of fronts under a given velocity field.
 *   **Finite differences for the incompressible Navier-Stokes equations in a box:** [mit18086\_navierstokes.m](http://www-math.mit.edu/cse/codes/mit18086_navierstokes.m) (CSE)  
     Solves the 2D incompressible Navier-Stokes equations in a rectangular domain with prescribed velocities along the boundary. The standard setup solves a lid driven cavity problem.  
-    This Matlab code is compact and fast, and can be modified for more general fluid computations. You can download a Documentation for the program. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-math.mit.edu/cse/codes/mit18086_navierstokes.pdf))
+    This Matlab code is compact and fast, and can be modified for more general fluid computations. You can download a Documentation for the program. ([PDF](http://www-math.mit.edu/cse/codes/mit18086_navierstokes.pdf))
 *   **Spectral methods for the incompressible Navier-Stokes equations on a torus:** [mit18336\_spectral\_ns2d.m](http://math.mit.edu/cse/codes/mit18336_spectral_ns2d.m) (CSE)  
     Solves the 2D incompressible Navier-Stokes equations in vorticity/stream function formulation on the torus, using spectral methods.

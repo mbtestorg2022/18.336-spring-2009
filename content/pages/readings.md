@@ -298,9 +298,9 @@ Systems of IVP, wave equation, leapfrog, staggered grids
 {{< tdopen >}}
 
 
-Notes on the wave equation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf))
+Notes on the wave equation ([PDF](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf))
 
-Notes on perfectly matching layers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://math.mit.edu/~stevenj/18.369/pml.pdf))
+Notes on perfectly matching layers ([PDF](http://math.mit.edu/~stevenj/18.369/pml.pdf))
 
 (Courtesy of Steven G. Johnson. Used with permission.)
 
