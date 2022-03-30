@@ -6,6 +6,7 @@ description: This resource contains notes that is intended as a brief introducti
   also discusses the limitations of PML.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/3928c649c9a5de00aa73ee2d9ba9bc4d_MIT18_336s09_read02_pml.pdf
 file_type: application/pdf
+parent_uid: bad3c0e7-381b-2096-3b6d-fd3c887e2be9
 resourcetype: Document
 title: MIT18_336s09_read02_pml.pdf
 uid: 3928c649-c9a5-de00-aa73-ee2d9ba9bc4d
